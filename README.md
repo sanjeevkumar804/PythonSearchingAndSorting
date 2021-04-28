@@ -2,7 +2,7 @@
 **********------------***********
 Searching and Sorting Programs:
 
-1.
+1
 2.Python Program for Binary Search (Recursive and Iterative)
 3.Python Program for Linear Search
 4.Python Program for Insertion Sort
