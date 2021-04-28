@@ -1,7 +1,4 @@
 # PythonSearchingAndSorting
-Searching and Sorting
-
-# PythonSearchingAndSorting
 **********------------***********
 Searching and Sorting Programs:
 
